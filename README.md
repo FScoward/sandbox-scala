@@ -4,3 +4,6 @@
 # How to run
 `scala-cli Main.scala`
 `scala-cli Sequence.scala`
+
+# Worksheet
+open sandbox-scala.worksheet.sc with vscode
